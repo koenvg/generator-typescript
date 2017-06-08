@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Koen Van Geert",
+      "authorEmail": "koen.van.geert@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}

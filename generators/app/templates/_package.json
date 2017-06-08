@@ -1,0 +1,18 @@
+{
+  "name": "<%= projectName %>",
+  "version": "0.0.0",
+  "author": "someUserName",
+  "main": "/dest/index.js",
+  "scripts": {
+    "build": "gulp build",
+    "lint": "gulp lint"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.1",
+    "gulp-typescript": "^3.1.7",
+    "tslint": "^5.4.3",
+    "typescript": "^2.3.4"
+  }
+}
